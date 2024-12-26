@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Xiaofeng Tan! 👋
 
 <!--
 **Xiaofeng-Tan/Xiaofeng-Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 My name is Xiaofeng Tan, and I am from Guangdong, China. I am currently pursuing an M.Phil at Southeast University, Nanjing, China. My research primarily focuses on 3D/4D Computer Vision and anomaly detection.
+
+## 📫 Contact
+- 💬 If you have questions, feel free to reach out through [📖 E-mail](txf0620@gmail.com)!
+- 🎯 Portfolio site: [Portfolio](https://xiaofeng-tan.github.io/).
