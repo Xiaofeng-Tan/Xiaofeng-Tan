@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 My name is Xiaofeng Tan, and I am from Guangdong, China. I am currently pursuing an M.Phil at Southeast University, Nanjing, China. My research primarily focuses on 3D/4D Computer Vision and anomaly detection.
+Hi, I’m Xiaofeng Tan from Guangdong, China. I’m currently an M.Phil student at Southeast University in Nanjing. 🔭 My research focuses on 3D/4D Computer Vision and anomaly detection.
 
 ## 📫 Contact
 - 💬 If you have questions, feel free to reach out through [📖 E-mail](txf0620@gmail.com)!
