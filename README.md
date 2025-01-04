@@ -19,4 +19,4 @@ Hi, I’m Xiaofeng Tan from Guangdong, China. I’m currently an M.Phil student 
 
 ## 📫 Contact
 - 💬 If you have questions, feel free to reach out through [📖 E-mail](txf0620@gmail.com)!
-- 🎯 Portfolio site: [Portfolio](https://xiaofeng-tan.github.io/).
+- 🎯 Personal page: [Portfolio](https://xiaofeng-tan.github.io/).
