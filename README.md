@@ -1,4 +1,4 @@
-## Hi there, I am Xiaofeng Tan! 👋
+## Xiaofeng Tan (谭晓锋)
 
 
 I am a second-year M.Sc. student in the PALM Lab (led by Prof. Xin Geng) @ Southeast University (SEU) supervised by Prof. Hongsong Wang, currently exploring new frontiers as a Research Intern at Tencent’s YouTu Lab. Prior to that, I was a remote visiting student at LV LAB @ Singapore Management University (SMU), advised by Prof. Pan Zhou.
