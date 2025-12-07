@@ -9,4 +9,4 @@ My academic journey began at [Shenzhen University (SZU)](https://en.szu.edu.cn/)
 
 My research interests mainly revolve around RLHF, RLVR, AIGC, and 3D Human Modeling. I am actively seeking (1) `research internships` at top-tier companies available after Mar. 2026, (2) `Ph.D. positions` for Fall 2027 (preferably in America, Singapore, or Hong Kong SAR), and (3) other `research collaborations`. Feel free to reach out via 📧 Email: `xiaofengtan@seu.edu.cn` or 💬 WeChat: `txf_06_20`. I’d be happy to connect 😊. And if you’d like to talk about *Doraemon* 😺, that works too.
 
-> Research Experiments: [Youtu Lab @ Tencent](https://open.youtu.qq.com/#/open), [LV LAB@SMU](https://www.lv-lab.org/SMU/index.html), [PALM@SEU](https://palm.seu.edu.cn/), [CVI@SZU](https://en.szu.edu.cn/)
+> 🔬 Research Experiments: [Youtu Lab @ Tencent](https://open.youtu.qq.com/#/open), [LV LAB@SMU](https://www.lv-lab.org/SMU/index.html), [PALM@SEU](https://palm.seu.edu.cn/), [CVI@SZU](https://en.szu.edu.cn/)
