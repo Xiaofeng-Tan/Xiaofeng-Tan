@@ -1,6 +1,7 @@
 ## Xiaofeng Tan (谭晓锋)
 
-> 🔬 Research Experiments: [Hunyuan@Tencent](https://hunyuan.tencent.com/) < [Youtu Lab@Tencent](https://open.youtu.qq.com/#/open), < [LV Lab@SMU](https://www.lv-lab.org/SMU/index.html) < [PALM Lab@SEU](https://palm.seu.edu.cn/) < [CVI@SZU](https://en.szu.edu.cn/)
+> 🔬 Research Experiments (Internship): [Hunyuan@Tencent](https://hunyuan.tencent.com/) < [Youtu Lab@Tencent](https://open.youtu.qq.com/#/open) < [LV Lab@SMU](https://www.lv-lab.org/SMU/index.html)
+> 🔬 Research Experiments (Education): [PALM Lab@SEU](https://palm.seu.edu.cn/) < [CVI@SZU](https://en.szu.edu.cn/)
 
 I am a second-year M.Sc. student in the [PALM Lab](https://palm.seu.edu.cn/) @ [Southeast University (SEU)](https://www.seu.edu.cn/english/), supervised by Prof. [Hongsong Wang](https://cs.seu.edu.cn/hongsongwang/main.htm), currently a Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/). Previously, I was a Research Intern at [Tencent's Youtu Lab](https://open.youtu.qq.com/#/open). Prior to that, I was a remote visiting student at [LV LAB](https://www.lv-lab.org/SMU/index.html) @ Singapore Management University (SMU), where I worked closely with Prof. [Pan Zhou](https://panzhous.github.io/). I received dual bachelor's degrees (B.E. in CS, B.Sc. in Math) from [Shenzhen University (SZU)](https://en.szu.edu.cn/) in 2024, where I started research with Prof. [Can Gao](https://csse.szu.edu.cn/pages/user/index?id=953).
 
