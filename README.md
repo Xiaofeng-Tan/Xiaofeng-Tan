@@ -4,16 +4,9 @@
 
 I am a final-year M.Sc. student in the [PALM Lab](https://palm.seu.edu.cn/) @ [Southeast University (SEU)](https://www.seu.edu.cn/english/), supervised by Prof. [Hongsong Wang](https://cs.seu.edu.cn/hongsongwang/main.htm), and expect to graduate in June 2027. I am currently a Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/). I am also collaborating remotely with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at [UC Merced](https://www.ucmerced.edu/). Previously, I was a Research Intern at [Tencent's Youtu Lab](https://open.youtu.qq.com/#/open). Prior to that, I was a remote visiting student at [LV LAB](https://www.lv-lab.org/SMU/index.html) @ Singapore Management University (SMU), where I worked closely with Prof. [Pan Zhou](https://panzhous.github.io/). I received dual bachelor's degrees (B.E. in CS, B.Sc. in Math) from [Shenzhen University (SZU)](https://en.szu.edu.cn/) in 2024, where I started research with Prof. [Can Gao](https://csse.szu.edu.cn/pages/user/index?id=953).
 
-My research interests mainly revolve around RL, AIGC, world models, and 3D human modeling. I am actively seeking (1) `Ph.D. positions` for Fall 2027 and (2) other `research collaborations` related to RL or AIGC. Feel free to reach out via 📧 `xiaofengtan@seu.edu.cn` or 💬 WeChat: `txf_06_20`. I'd be happy to connect 😊. And if you'd like to talk about [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) 😺, that works too. For more details, please check my [CV](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan.pdf) / [中文简历](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan_CN.pdf).
+My research interests include RL, AIGC, world models, and 3D human modeling. I am looking for **Ph.D.** opportunities starting in Fall 2027 and welcome research collaborations in RL and AIGC. If you'd like to connect, feel free to reach out via 📧 `xiaofengtan@seu.edu.cn` or 💬 WeChat: `txf_06_20` 😊. You can find more about my background in my [CV](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan.pdf) / [中文简历](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan_CN.pdf).
 
-## 📰 News
-
-- **2026.08** 🎉 [FG-Diff](https://xiaofeng-tan.github.io/projects/FG-Diff/index.html) has been accepted to [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)!
-- **2026.05** 🏅 I am honored to be selected as a **Gold Reviewer** for [ICML 2026](https://icml.cc/)!
-- **2026.03** 👏 I have joined [Tencent Hunyuan](https://hunyuan.tencent.com/) as a Research Intern!
-- **2026.01** 🎉 [EasyTune](https://xiaofeng-tan.github.io/projects/EasyTune/) has been accepted to [ICLR 2026](https://iclr.cc/)!
-- **2025.11** 🎉 [ReAlign](https://wengwanjiang.github.io/ReAlign-page/) has been accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)!
-- **2025.09** 🎉 [SoPo](https://xiaofeng-tan.github.io/projects/SoPo/index.html) has been accepted to [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/118773)!
+I'm a [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) fan 😺. Based on our long history of conversations, GPT, Gemini, and Doubao all characterize me as an [INTJ](https://www.16personalities.com/intj-personality). This may be biased by the work-related nature of our conversations. I hope this offers a useful starting point for understanding how I work in collaborations.
 
 <details>
 <summary><strong>中文简介</strong></summary>
@@ -22,7 +15,24 @@ My research interests mainly revolve around RL, AIGC, world models, and 3D human
 
 我的研究兴趣包括强化学习（RL）、生成式人工智能（AIGC）、世界模型和三维人体建模。我计划申请 2027 年秋季入学的**博士**项目，也期待在 RL 和 AIGC 方向开展科研合作。欢迎通过 📧 `xiaofengtan@seu.edu.cn` 或 💬 微信 `txf_06_20` 与我交流 😊。更多信息请见[中英文简历](https://xiaofeng-tan.github.io/cv/)。
 
+我很喜欢[哆啦 A 梦](https://zh.wikipedia.org/wiki/哆啦A夢) 😺。根据长期聊天记录，GPT、Gemini 和豆包都判断我是 [INTJ](https://www.16personalities.com/intj-personality)，不过聊天大多与工作有关，判断可能有偏差。放在这里，供合作者了解我的工作方式时参考。
+
 </details>
 
-> 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 20, 2026
+## 📝 Selected Publications
 
+- **MotionRFT** ([TPAMI](https://xiaofeng-tan.github.io/projects/MotionRFT/), under review)
+- **PEC** ([under review](https://xiaofeng-tan.github.io/projects/PEC/))
+- **ConsistentRFT** ([AAAI 2027](https://xiaofeng-tan.github.io/projects/ConsistentRFT/), under review)
+- **EasyTune** ([ICLR 2026](https://xiaofeng-tan.github.io/projects/EasyTune/))
+- **ReAlign** ([AAAI 2026](https://wengwanjiang.github.io/ReAlign-page/))
+- **FG-Diff** ([IEEE TIP 2026](https://xiaofeng-tan.github.io/projects/FG-Diff/))
+- **SoPo** ([NeurIPS 2025](https://xiaofeng-tan.github.io/projects/SoPo/))
+- **MGBOD** ([IEEE TKDE 2025](https://ieeexplore.ieee.org/abstract/document/10821488))
+
+## 📋 Reviewer
+
+- **Conferences**: ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027
+- **Journals**: [TMLR](https://jmlr.org/tmlr/), IJDSA
+
+> 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 20, 2026
