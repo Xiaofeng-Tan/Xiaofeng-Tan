@@ -21,18 +21,10 @@ I'm a [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) fan 😺. Based on ou
 
 ## 📝 Selected Publications
 
-- **MotionRFT** ([TPAMI](https://xiaofeng-tan.github.io/projects/MotionRFT/), under review)
-- **PEC** ([under review](https://xiaofeng-tan.github.io/projects/PEC/))
-- **ConsistentRFT** ([AAAI 2027](https://xiaofeng-tan.github.io/projects/ConsistentRFT/), under review)
-- **EasyTune** ([ICLR 2026](https://xiaofeng-tan.github.io/projects/EasyTune/))
-- **ReAlign** ([AAAI 2026](https://wengwanjiang.github.io/ReAlign-page/))
-- **FG-Diff** ([IEEE TIP 2026](https://xiaofeng-tan.github.io/projects/FG-Diff/))
-- **SoPo** ([NeurIPS 2025](https://xiaofeng-tan.github.io/projects/SoPo/))
-- **MGBOD** ([IEEE TKDE 2025](https://ieeexplore.ieee.org/abstract/document/10821488))
+**Work**: [SoPo](https://xiaofeng-tan.github.io/projects/SoPo/) (NeurIPS'25), [EasyTune](https://xiaofeng-tan.github.io/projects/EasyTune/) (ICLR'26), [ReAlign](https://wengwanjiang.github.io/ReAlign-page/) (AAAI'26), [FG-Diff](https://xiaofeng-tan.github.io/projects/FG-Diff/) (TIP'26), [MGBOD](https://ieeexplore.ieee.org/abstract/document/10821488) (TKDE'25), [MotionRFT](https://xiaofeng-tan.github.io/projects/MotionRFT/) (TPAMI, under review), [PEC](https://xiaofeng-tan.github.io/projects/PEC/) (under review), [ConsistentRFT](https://xiaofeng-tan.github.io/projects/ConsistentRFT/) (AAAI'27, under review)
 
 ## 📋 Reviewer
 
-- **Conferences**: ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027
-- **Journals**: [TMLR](https://jmlr.org/tmlr/), IJDSA
+**Work**: ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027 ｜ [TMLR](https://jmlr.org/tmlr/), IJDSA
 
 > 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 20, 2026
