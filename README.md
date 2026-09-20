@@ -19,12 +19,12 @@ I'm a [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) fan 😺. Based on ou
 
 </details>
 
-## 📝 Selected Publications
+## Selected Publications
 
-**Work**: [SoPo](https://xiaofeng-tan.github.io/projects/SoPo/) (NeurIPS'25), [EasyTune](https://xiaofeng-tan.github.io/projects/EasyTune/) (ICLR'26), [ReAlign](https://wengwanjiang.github.io/ReAlign-page/) (AAAI'26), [FG-Diff](https://xiaofeng-tan.github.io/projects/FG-Diff/) (TIP'26), [MGBOD](https://ieeexplore.ieee.org/abstract/document/10821488) (TKDE'25), [MotionRFT](https://xiaofeng-tan.github.io/projects/MotionRFT/) (TPAMI, under review), [PEC](https://xiaofeng-tan.github.io/projects/PEC/) (under review), [ConsistentRFT](https://xiaofeng-tan.github.io/projects/ConsistentRFT/) (AAAI'27, under review)
+SoPo (NeurIPS'25), EasyTune (ICLR'26), ReAlign (AAAI'26), FG-Diff (TIP'26), MGBOD (TKDE'25), MotionRFT (TPAMI, under review), PEC (under review), ConsistentRFT (AAAI'27, under review)
 
-## 📋 Reviewer
+## Reviewer
 
-**Work**: ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027 ｜ [TMLR](https://jmlr.org/tmlr/), IJDSA
+ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027 ｜ TMLR, IJDSA
 
 > 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 20, 2026
