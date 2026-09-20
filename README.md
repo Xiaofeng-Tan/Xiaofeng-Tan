@@ -19,12 +19,8 @@ I'm a [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) fan 😺. Based on ou
 
 </details>
 
-## Selected Publications
+Selected Publications: SoPo (NeurIPS'25), EasyTune (ICLR'26), ReAlign (AAAI'26), FG-Diff (TIP'26), MGBOD (TKDE'25), MotionRFT (TPAMI, under review), PEC (under review), ConsistentRFT (AAAI'27, under review)
 
-SoPo (NeurIPS'25), EasyTune (ICLR'26), ReAlign (AAAI'26), FG-Diff (TIP'26), MGBOD (TKDE'25), MotionRFT (TPAMI, under review), PEC (under review), ConsistentRFT (AAAI'27, under review)
-
-## Reviewer
-
-ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027 ｜ TMLR, IJDSA
+Reviewer: ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027 ｜ TMLR, IJDSA
 
 > 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 20, 2026
