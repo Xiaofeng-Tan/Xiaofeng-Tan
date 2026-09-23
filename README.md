@@ -6,7 +6,7 @@ I am a final-year M.Sc. student in the [PALM Lab](https://palm.seu.edu.cn/) @ [S
 
 My research interests include RL, AIGC, world models, and 3D human modeling. I am looking for **Ph.D.** opportunities starting in Fall 2027 and welcome research collaborations in RL and AIGC. If you'd like to connect, feel free to reach out via 📧 `xiaofengtan@seu.edu.cn` or 💬 WeChat: `txf_06_20` 😊. You can find more about my background in my [CV](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan.pdf) / [中文简历](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan_CN.pdf).
 
-I'm a Doraemon fan 😺, as the little companions in the bottom corners suggest. Based on our long history of conversations, GPT, Gemini, and Doubao all characterize me as an INTJ, although these conversations have primarily been work-related and may introduce some bias. I share it as a useful starting point for collaboration.
+I'm a Doraemon fan, as the little companions in the bottom corners suggest. Based on our long history of conversations, GPT, Gemini, and Doubao all characterize me as an INTJ, although these conversations have primarily been work-related and may introduce some bias. I share it as a useful starting point for collaboration.
 
 <details>
 <summary><strong>中文简介</strong></summary>
