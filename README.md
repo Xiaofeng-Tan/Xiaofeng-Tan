@@ -23,4 +23,4 @@ I'm a Doraemon fan, as the little companions in the bottom corners suggest. Base
 
 **Reviewer**: ICML 2026 (Gold Reviewer), NeurIPS 2026, AAAI 2027, ICLR 2027 ｜ [TMLR](https://jmlr.org/tmlr/), IJDSA
 
-> 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 20, 2026
+> 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: September 23, 2026
