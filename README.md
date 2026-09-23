@@ -6,7 +6,7 @@ I am a final-year M.Sc. student in the [PALM Lab](https://palm.seu.edu.cn/) @ [S
 
 My research interests include RL, AIGC, world models, and 3D human modeling. I am looking for **Ph.D.** opportunities starting in Fall 2027 and welcome research collaborations in RL and AIGC. If you'd like to connect, feel free to reach out via 📧 `xiaofengtan@seu.edu.cn` or 💬 WeChat: `txf_06_20` 😊. You can find more about my background in my [CV](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan.pdf) / [中文简历](https://xiaofeng-tan.github.io/assets/pdf/CV_Xiaofeng_Tan_CN.pdf).
 
-I'm a [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) fan 😺. Based on our long history of conversations, GPT, Gemini, and Doubao all characterize me as an [INTJ](https://www.16personalities.com/intj-personality). This may be biased by the work-related nature of our conversations. I hope this offers a useful starting point for understanding how I work in collaborations.
+I'm a Doraemon fan 😺, as the little companions in the bottom corners suggest. Based on our long history of conversations, GPT, Gemini, and Doubao all characterize me as an INTJ, although these conversations have primarily been work-related and may introduce some bias. I share it as a useful starting point for collaboration.
 
 <details>
 <summary><strong>中文简介</strong></summary>
@@ -15,7 +15,7 @@ I'm a [*Doraemon*](https://en.wikipedia.org/wiki/Doraemon) fan 😺. Based on ou
 
 我的研究兴趣包括强化学习（RL）、生成式人工智能（AIGC）、世界模型和三维人体建模。我计划申请 2027 年秋季入学的**博士**项目，也期待在 RL 和 AIGC 方向开展科研合作。欢迎通过 📧 `xiaofengtan@seu.edu.cn` 或 💬 微信 `txf_06_20` 与我交流 😊。更多信息请见[中英文简历](https://xiaofeng-tan.github.io/cv/)。
 
-我很喜欢[哆啦 A 梦](https://zh.wikipedia.org/wiki/哆啦A夢) 😺。根据长期聊天记录，GPT、Gemini 和豆包都判断我是 [INTJ](https://www.16personalities.com/intj-personality)，不过聊天大多与工作有关，判断可能有偏差。放在这里，供合作者了解我的工作方式时参考。
+我很喜欢[哆啦 A 梦](https://zh.wikipedia.org/wiki/哆啦A夢) 😺。根据长期聊天记录，GPT、Gemini 和豆包都判断我是 [INTJ](https://www.16personalities.com/intj-personality)，尽管聊天大多与工作有关，判断可能有偏差（我也不确定）。放在这里，供合作者了解我的工作方式时参考。
 
 </details>
 
