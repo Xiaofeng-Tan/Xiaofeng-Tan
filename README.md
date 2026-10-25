@@ -19,7 +19,7 @@ I am looking for **Ph.D.** opportunities starting in Fall 2027. If you are inter
 
 </details>
 
-**Selected Publications**: [PEC](https://xiaofeng-tan.github.io/projects/PEC/) (NeurIPS'26 Spotlight, first author), [MotionRFT](https://xiaofeng-tan.github.io/projects/MotionRFT/) (TPAMI'26, co-first author), [EasyTune](https://xiaofeng-tan.github.io/projects/EasyTune/) (ICLR'26, co-first author), [ReAlign](https://wengwanjiang.github.io/ReAlign-page/) (AAAI'26, co-first author), [FG-Diff](https://xiaofeng-tan.github.io/projects/FG-Diff/) (TIP'26, first author), [MGBOD](https://ieeexplore.ieee.org/abstract/document/10821488) (TKDE'24, first author), [DPGO](https://xiaofeng-tan.github.io/projects/ConsistentRFT/) (under review, first author), [SpatialCritic](https://xiaofeng-tan.github.io/projects/spatialcritic/) (under review, first author)
+**Selected Publications**: [PEC](https://xiaofeng-tan.github.io/projects/PEC/) (NeurIPS'26 Spotlight, first author), [MotionRFT](https://xiaofeng-tan.github.io/projects/MotionRFT/) (TPAMI'26, co-first author), [EasyTune](https://xiaofeng-tan.github.io/projects/EasyTune/) (ICLR'26, co-first author), [ReAlign](https://wengwanjiang.github.io/ReAlign-page/) (AAAI'26, co-first author), [FG-Diff](https://xiaofeng-tan.github.io/projects/FG-Diff/) (TIP'26, first author), [MGBOD](https://ieeexplore.ieee.org/abstract/document/10821488) (TKDE'24, first student author), [DPGO](https://xiaofeng-tan.github.io/projects/ConsistentRFT/) (under review, first author), [SpatialCritic](https://xiaofeng-tan.github.io/projects/spatialcritic/) (under review, first author)
 
 **Honors**: SEU President's Scholarship (Special Award, 10 of ~19,500 master's students), 2026
 
