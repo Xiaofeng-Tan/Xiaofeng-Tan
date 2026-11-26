@@ -23,6 +23,6 @@ I am looking for **Ph.D.** opportunities starting in Fall 2027. If you are inter
 
 **Honors**: SEU President's Scholarship (Special Award, 10 of ~19,500 master's students), 2026
 
-**Reviewer**: ICML 2026 (Gold Reviewer), NeurIPS 2026 (Top Reviewer), AAAI 2027, ICLR 2027, IJCAI 2027 ｜ [TMLR](https://jmlr.org/tmlr/), IJDSA
+**Reviewer**: ICML 2026 (Gold Reviewer), NeurIPS 2026 (Top Reviewer), AAAI 2027, ICLR 2027, IJCAI 2027, ICML 2027 ｜ [TMLR](https://jmlr.org/tmlr/), IJDSA
 
 > 🌐 Personal Homepage: https://xiaofeng-tan.github.io/ ｜ 🕒 Last update: Oct 25, 2026
